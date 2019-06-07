@@ -3,7 +3,7 @@ import 'firebase/firestore'
 import 'firebase/auth'
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyAC9_BxnzlRuWVUyEXi9BvcyNEfiL4-TLY",
+    apiKey: "****************************",
     authDomain: "ahmad-planner.firebaseapp.com",
     databaseURL: "https://ahmad-planner.firebaseio.com",
     projectId: "ahmad-planner",
