@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+
+
+ 
+  background: url('/img/backStyle.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+form > div > label {
+   color: aqua
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#root > div > div > div > div.col-sm-8 > div > div a,body > footer > div.container-fluid > div > div > div > a{
+   color:  inherit;
+
+}
+#root > div > div > div > div.col-sm-8 > div > div a:hover,body > footer > div.container-fluid > div > div > div > a{
+  text-decoration: none;
+
+}
+
+#root > div > div > div > div.card-body , #root > div > div > div > div.card-footer{
+
+  color: pink
+
+
+}
+
+body > footer > div.container-fluid {
+  background-color: #00838f
+}
+body > footer > div.footer-copyright.text-center.py-3 {
+
+     background-color: #006972
+}
+
